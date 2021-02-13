@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @aidandubiel
+- 👀 I’m interested in learning more about Python and hopefully creating some scripts and developing my skills...
+- 🌱 I’m currently learning about penetration testing and studying for my A+...
+- 💞️ I’m looking to collaborate on something at some point in the future but right now I'm in the very early stages of my journey...
+
+<!---
+aidandubiel/aidandubiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
